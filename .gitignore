@@ -1,3 +1,5 @@
 .DS_Store
 .env
-
+.llm-finetuning-go-emotions/
+__pycache__/ 
+llm-finetuning-go-emotions/
