@@ -1,2 +1,2 @@
-# Finetuning LLMs on Go Emotions Dataset
+# Finetuning LLMs on the [Go Emotions Dataset](https://huggingface.co/datasets/google-research-datasets/go_emotions)
 
