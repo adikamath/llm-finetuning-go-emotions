@@ -1,8 +1,14 @@
-# Finetuning LLMs on the [Go Emotions Dataset](https://huggingface.co/datasets/google-research-datasets/go_emotions)
+# Fine-Tuning OpenAI Models on the GoEmotions Dataset
 
 ## Overview
 
 This project focuses on fine-tuning an OpenAI model to perform fine-grained emotion classification using the Go Emotions dataset. The goal is to adapt a pre-trained language model to accurately identify and classify emotions in textual data.
+
+## When to Fine-Tune Models
+
+*To be completed*
+
+
 
 ## About Go Emotions
 
